@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning html, css, and javascript
+- 🌱 I’m currently learning ruby and have finished the Foundations course on The Odin Project.
 - 💞️ I’m looking to collaborate on a web application for sports card values using webhooks and other useful tools in the United States.
 - 📫 How to reach me: blevsca2@gmail.com
 - ⚡ Fun fact: I have never been on the west coast of the United States, but would love to one day!
